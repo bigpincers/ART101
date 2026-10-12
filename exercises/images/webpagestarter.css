@@ -1,0 +1,9 @@
+.highlight_01 {background-color: #acbc31; padding:10px}
+.center{display:flex; justify-content: center; align items:center;}
+.window_01 {background-color: #acbc31; padding: 50px; text-align: center;}
+#main {background-color: rgb(196, 85, 85); padding: 100px;}
+#full {background-color: rgb(131, 6, 6); padding: 150px;}
+#gallery img {width: 200px}
+img {border:10px solid #75c298; width: 50px;}
+#maintext {background-color: #75c298;padding: 20px; margin:8px}
+.window_02{text-align: center; font-size: larger;}
