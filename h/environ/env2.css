@@ -1,0 +1,40 @@
+body{
+    background-image: url(redsnow.gif);
+    margin-left: 500px;
+}
+    .top p {
+        background-color: aquamarine;
+        width: 250px;
+        margin-bottom: 100px;
+    }
+    .top_container { 
+        display: flex; 
+        #item1 {
+            width: 200px;
+            margin-left: 50px;
+
+        }
+        #item2 img {
+            width:200px;
+        margin: 0 0 0 175px}
+
+        }
+    .main p {
+        background-color: aquamarine;
+        width: 250px;
+        margin: 0 0 0 25px
+    }
+    
+    .main_container {
+    display: flex; 
+    #item1 img {
+        width: 300px;
+    }
+    
+    #item2 img {
+        height: 250px;
+    }
+
+  
+
+}
